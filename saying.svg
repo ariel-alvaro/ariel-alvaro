@@ -1,0 +1,27 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .rainbow {
+      /* Usamos fill: currentColor para que el color del texto dependa de la propiedad CSS "color" */
+      fill: currentColor;
+      animation: rainbow 4s ease-in infinite;
+    }
+    @keyframes rainbow {
+      0%, 100% { color: rgb(255, 0, 0); }
+      8% { color: rgb(255, 127, 0); }
+      16% { color: rgb(255, 255, 0); }
+      25% { color: rgb(127, 255, 0); }
+      33% { color: rgb(0, 255, 0); }
+      41% { color: rgb(0, 255, 127); }
+      50% { color: rgb(0, 255, 255); }
+      58% { color: rgb(0, 127, 255); }
+      66% { color: rgb(0, 0, 255); }
+      75% { color: rgb(127, 0, 255); }
+      83% { color: rgb(255, 0, 255); }
+      91% { color: rgb(255, 0, 127); }
+    }
+  </style>
+  <!-- El texto se posiciona en x=10, y=60 con un tamaño de fuente de 40px -->
+  <text x="10" y="60" class="rainbow" font-size="40" font-family="Arial">
+    Software Developer
+  </text>
+</svg>
