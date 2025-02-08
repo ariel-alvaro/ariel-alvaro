@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="./banner.gif"  />
+  <img style="max-width:100%" src="./banner.gif"  />
 </div>
 
 ###
