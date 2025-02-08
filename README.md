@@ -30,33 +30,8 @@
   <img src="https://streak-stats.demolab.com?user=arielalvaro57666&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div align="center">
-<svg width="500" height="40" xmlns="http://www.w3.org/2000/svg">
-<style>
-.rainbow {
-fill: currentColor;
-animation: rainbow 4s ease-in infinite;
-}
-@keyframes rainbow {
-0%, 100% { color: rgb(255, 0, 0); }
-8% { color: rgb(255, 127, 0); }
-16% { color: rgb(255, 255, 0); }
-25% { color: rgb(127, 255, 0); }
-33% { color: rgb(0, 255, 0); }
-41% { color: rgb(0, 255, 127); }
-50% { color: rgb(0, 255, 255); }
-58% { color: rgb(0, 127, 255); }
-66% { color: rgb(0, 0, 255); }
-75% { color: rgb(127, 0, 255); }
-83% { color: rgb(255, 0, 255); }
-91% { color: rgb(255, 0, 127); }
-}
-</style>
-<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="rainbow" font-size="20" font-family="Arial">
-From failing we learn, from success not so much
-</text>
-</svg>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&width=435&lines=From+failing+we+learn%2C+from+success+not+so+much)](https://git.io/typing-svg)
+
 
 
 ###
