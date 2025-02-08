@@ -7,8 +7,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="
-  banner.gif"  />
+  <img height="150" src="./banner.gif"  />
 </div>
 
 ###
