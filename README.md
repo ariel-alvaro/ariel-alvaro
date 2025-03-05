@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=arielalvaro57666&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ariel-alvaro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&width=435&lines=From+failing+we+learn%2C+from+success+not+so+much)](https://git.io/typing-svg)
